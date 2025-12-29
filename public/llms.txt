@@ -1,0 +1,70 @@
+# ד"ר אסתי טחובר - אונקולוגיה של מערכת העיכול — Generative Engine Optimization Map
+
+> מרפאת גידולי מערכת העיכול - ד"ר אסתר טחובר, המכון האונקולוגי הציבורי אסותא רמת החייל, תל אביב. מטרתנו היא להביא את המטופל לתחילת הטיפול המתאים יותר ובזמן הקצר ביותר. הצוות כולל את ד"ר אסתר טחובר. האחות המתאמת זמינה למקרים דחופים, למתן הסברים ותמיכה בתופעות לוואי לכל המטופלים. מקבלת מטופלים תמורת טופס 17 מקופות החולים מכבי, לאומית, מאוחדת.
+
+---
+
+## Pages
+
+### Home
+https://-a99cd800.zappy5.app
+Discover expert united healthcare providers specializing in gastrointestinal oncology. Contact us today for compassionate, precision-driven cancer care.
+
+### Services
+https://-a99cd800.zappy5.app/services
+Comprehensive health insurance plans covering all gastrointestinal cancer treatments. Expert oncology services from esophageal to liver cancer.
+
+### About
+https://-a99cd800.zappy5.app/about
+Learn about our home health care agencies approach to gastrointestinal oncology. Meet Dr. Esti Tchoubar and our dedicated healthcare team.
+
+### Contact
+https://-a99cd800.zappy5.app/contact
+Contact our healthcare specialists for gastrointestinal cancer consultation. Schedule your appointment with Dr. Esti Tchoubar today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a99cd800.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a99cd800.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a99cd800.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ד"ר אסתי טחובר - אונקולוגיה של מערכת העיכול
+מרפאת גידולי מערכת העיכול - ד"ר אסתר טחובר, המכון האונקולוגי הציבורי אסותא רמת החייל, תל אביב. מטרתנו היא להביא את המטופל לתחילת הטיפול המתאים יותר ובזמן הקצר ביותר. הצוות כולל את ד"ר אסתר טחובר. האחות המתאמת זמינה למקרים דחופים, למתן הסברים ותמיכה בתופעות לוואי לכל המטופלים. מקבלת מטופלים תמורת טופס 17 מקופות החולים מכבי, לאומית, מאוחדת.
+
+## Services/Products
+- סרטן ושט
+- סרטן קיבה
+- סרטן מעי דק
+- סרטן מעי גס
+- סרטן רקטום
+- סרטן אנוס
+- סרטן לבלב
+- סרטן דרכי מרה
+- סרטן כבד
+- GIST
+
+## Target Audience
+- Gastrointestinal Cancer Patients
+- Oncology Caregivers
+
+## Industry
+healthcare
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a99cd800.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a99cd800.zappy5.app/robots.txt
